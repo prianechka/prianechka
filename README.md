@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Contact</h3>
 <p align="left">
-<a href="mailto: mrpriany@mail.ru"> <img src="https://user-images.githubusercontent.com/55987935/168389280-a384acf5-7cd9-41eb-8a8c-1809bcaf81f4.png" alt="email" width="40" height="30"/> </a>
+<a href="mailto: mrpriany@mail.ru"> <img src="https://user-images.githubusercontent.com/55987935/168389280-a384acf5-7cd9-41eb-8a8c-1809bcaf81f4.png" alt="email" align="center" width="40" height="40"/> </a>
 <a href="https://instagram.com/prianechka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prianechka" height="30" width="40" /></a>
   <a href="https://vk.com/mrpriany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="prianechka" height="30" width="40" /></a>
 <a href="https://t.me/pr1any" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
