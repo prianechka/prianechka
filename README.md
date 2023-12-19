@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prianechka&label=Profile%20views&color=0e75b6&style=flat" alt="prianechka" /> </p>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(4rd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(Graduate);</h3>
+
+* <h3 align="left"><a href="http://www.fa.ru/Pages/Home.aspx" >Financial Universuity</a> Student Devops(1 course);</h3>
 
 * <h3 align="left">Student of <a href="https://park.vk.company/" >VK Education (machine learning 2020, Golang 2022) </a>.</h3>
 
